@@ -7,10 +7,11 @@
 
 
   body {
-    background-image: url(./assets/asset-min.jpg);
+    background-image: url(https://i.pinimg.com/564x/9c/c2/2d/9cc22db04a85387fdb11023adda53f80.jpg);
     background-repeat: no-repeat;
     /* background-attachment: fixed; */
     background-position: center;
+    background-size:100% 100%;
     
     min-height: 100vh;
     position: relative;
